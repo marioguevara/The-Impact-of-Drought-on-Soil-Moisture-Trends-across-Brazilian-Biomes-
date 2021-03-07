@@ -25,6 +25,8 @@ BRA_TRENDS_SM.R
 
 Code to estimate trends of satellite soil moisture across Brazilian biomes. 
 
+Datasets:
+
 BRArandomPoints.rds
 
 10000 Random points selected across Brazil in a native format of R. 
