@@ -80,6 +80,8 @@ print(j)
 N <- merge (N, C)
 #close second loop
 }
+#visualize
+spplot(N['freq'])#freq i the frequency of emergency declarations 
 #save map of frequency of emergency by state 
 saveRDS(N, file='freq_EMERGENCY_MUNI.rds')
 #save.session
