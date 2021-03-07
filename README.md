@@ -36,6 +36,10 @@ section of our paper.
 The source of soil moisture data is the version 4.5 of the ESA-CCI soil moisture dataset:
 https://esa-soilmoisture-cci.org/ 
 
+Note that there are some data gaps associated with the gaps in the ESA-CCI product. 
+We calculate in columns the mean (1), the median (med 2), the standard deviation (ssd 3), 
+minimum (min 4) and maximum (max 5) values during the analyzed period of time. 
+
 We also augment these points with gridded environmental data described 
 previously here https://soil.copernicus.org/articles/4/173/2018/ 
 and here https://docs.google.com/spreadsheets/d/1yr09cPDoSVdoahN_fXcNLfgipQcCodRl66WCcj6hJ9A/edit?usp=sharing
@@ -45,6 +49,7 @@ here: https://drive.google.com/drive/folders/1hE0PkRYp4C5wjnizAapX_MBKhEUdfGZP?u
 
 Please report errors in code or questions to:
 mguevara@ucr.edu
+
 
 
 
