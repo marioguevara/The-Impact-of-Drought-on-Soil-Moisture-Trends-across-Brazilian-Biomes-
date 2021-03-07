@@ -10,15 +10,19 @@ This site contains the codes to reproduce:
 Codes: 
 
 BRA_EMERGEMCY_FREQ.R 
+
 Code to generate the database of emergency declarations by biome.
 
 BRA_GPP_SM.R 
+
 Code to estimate GPP trends across Brazilian biomes
 
 BRA_PCA_MAP_code.R 
+
 Code to analize environmental differences across Brazilian biomes
 
 BRA_TRENDS_SM.R 
+
 Code to estimate trends of satellite soil moisture across Brazilian biomes. 
 
 The source of soil moisture data is the version 4.5 of the ESA-CCI soil moisture dataset:
