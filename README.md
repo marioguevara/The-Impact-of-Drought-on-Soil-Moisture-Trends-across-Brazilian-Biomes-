@@ -1,4 +1,4 @@
-# The-Impact-of-Drought-on-Soil-Moisture-Trends-across-Brazilian-Biomes-
+# The Impact of Drought on Soil Moisture Trends across Brazilian Biomes 
 
 This site contains the codes to reproduce:
 
