@@ -49,8 +49,8 @@ here: https://drive.google.com/drive/folders/1hE0PkRYp4C5wjnizAapX_MBKhEUdfGZP?u
 
 We also include the file:
 Municipalities Emergency Situation Drought Brazil 2009-2015.csv
-This file contains the report of emergency declarations 
-in a municipality basis during the analized period of time. 
+
+This file contains the report of emergency declarations in a municipality basis during the analized period of time. 
 
 Please report errors in code or questions to:
 mguevara@ucr.edu
