@@ -29,7 +29,7 @@ BRArandomPoints.rds
 
 10000 Random points selected across Brazil in a native format of R. 
 These points contain coordinates (x,y) in geografical CRS. We augment 
-these points with satellite soil moisture information 2009 and 2015 in 
+these points with satellite soil moisture information (2009 and 2015) in 
 a montly basis. These are the random points described in the methods 
 section of our paper. 
 
