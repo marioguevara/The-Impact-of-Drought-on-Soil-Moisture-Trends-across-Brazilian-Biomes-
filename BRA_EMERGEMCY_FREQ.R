@@ -85,7 +85,7 @@ spplot(N['freq'])#freq i the frequency of emergency declarations
 #save map of frequency of emergency by state 
 saveRDS(N, file='freq_EMERGENCY_MUNI.rds')
 #save.session
-save.image(file='BRA_SM_TREND.RData')
+save.image(file='freq_EMERGENCY_MUNI.RData')
 #remove all objects
 rm(list=ls())
 #quit R without saving anything
