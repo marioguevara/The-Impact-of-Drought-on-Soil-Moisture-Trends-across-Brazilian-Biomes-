@@ -30,7 +30,8 @@ BRArandomPoints.rds
 10000 Random points selected across Brazil in a native format of R. 
 These points contain coordinates (x,y) in geografical CRS. We augment 
 these points with satellite soil moisture information 2009 and 2015 in 
-a montly basis. 
+a montly basis. These are the random points described in the methods 
+section of our paper. 
 
 The source of soil moisture data is the version 4.5 of the ESA-CCI soil moisture dataset:
 https://esa-soilmoisture-cci.org/ 
