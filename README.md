@@ -57,7 +57,9 @@ here: https://drive.google.com/drive/folders/1hE0PkRYp4C5wjnizAapX_MBKhEUdfGZP?u
 Please report errors in code or questions to:
 mguevara@ucr.edu
 
+please cite this datasets and products as:
 
+Guevara Mario, Ribeiro Flavio, Vázquez-Lule Alma, Cunha Ana, Marcelo Zeri, & Rodrigo Vargas. (2021, March 7). Code for The Impact of Drought on Soil Moisture Trends across Brazilian Biomes (Version v1.0). Zenodo. http://doi.org/10.5281/zenodo.4587957
 
 
 
