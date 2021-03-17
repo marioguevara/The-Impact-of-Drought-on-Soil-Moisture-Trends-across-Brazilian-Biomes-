@@ -4,6 +4,7 @@ library(plyr)
 library(maps)
 #import municipalities
 sh <- shapefile('BRMUE250GC_SIR.shp')
+#read biome dataset
 bio <- shapefile("bra/bioma.shp")
 #read emergency dataset
 dat <- read.csv('Municipalities Emergency Situation Drought Brazil 2009-2015.csv')
